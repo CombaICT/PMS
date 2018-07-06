@@ -1390,3 +1390,41 @@
   width:79px;
   white-space:nowrap;
 }
+#u12501_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(204, 204, 204, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#1E1E1E;
+}
+#u12501 {
+  position:absolute;
+  left:275px;
+  top:122px;
+  width:61px;
+  height:20px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#1E1E1E;
+}
+#u12502 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:57px;
+  white-space:nowrap;
+}
