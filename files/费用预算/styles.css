@@ -183,7 +183,7 @@
   left:0px;
   top:0px;
   width:120px;
-  height:1200px;
+  height:940px;
   background:inherit;
   background-color:rgba(25, 158, 216, 1);
   box-sizing:border-box;
@@ -200,12 +200,12 @@
   left:0px;
   top:70px;
   width:120px;
-  height:1200px;
+  height:940px;
 }
 #u6121 {
   position:absolute;
   left:2px;
-  top:592px;
+  top:462px;
   width:116px;
   visibility:hidden;
   word-wrap:break-word;
@@ -4584,8 +4584,8 @@
 }
 #u6450 {
   position:absolute;
-  left:485px;
-  top:1230px;
+  left:450px;
+  top:970px;
   width:140px;
   height:40px;
   font-family:'Arial Negreta', 'Arial';

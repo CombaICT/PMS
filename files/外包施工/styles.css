@@ -3247,3 +3247,61 @@
   width:18px;
   word-wrap:break-word;
 }
+#u6681_img {
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:5px;
+  height:18px;
+}
+#u6681 {
+  position:absolute;
+  left:586px;
+  top:315px;
+  width:2px;
+  height:15px;
+}
+#u6682 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:1px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6683_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u6683 {
+  position:absolute;
+  left:548px;
+  top:330px;
+  width:79px;
+  height:16px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u6684 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
