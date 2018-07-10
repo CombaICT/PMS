@@ -679,7 +679,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:47px;
+  width:160px;
   height:18px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -698,7 +698,7 @@
   position:absolute;
   left:80px;
   top:83px;
-  width:47px;
+  width:160px;
   height:18px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
@@ -710,6 +710,6 @@
   position:absolute;
   left:2px;
   top:-1px;
-  width:43px;
+  width:156px;
   word-wrap:break-word;
 }
